@@ -4,17 +4,19 @@
 - Currently learning C#, web-based development and further improving my knowledge in previous skills.
 - Also looking to learn 3D modeling, Java and CS fundamentals.
 
-- Certificates
+
+## Certificates
 
 Artificial Inteligence Fundamentals (IBM SkillsBuild)
 
 Agile Explorer (IBM SkillsBuild)
 
-- Hobbies:
 
-Videogames
+## Hobbies:
 
-Drawing and Art
+Videogames 🎮
+
+Drawing and Art 🎨
 
 <!--
 Notes for later:
