@@ -1,16 +1,19 @@
-## Hi there 👋
+# About me
+- 2nd year Software Engineering student at Tecnológico de Monterrey Campus Monterrey.
+- Intermediate C++ and Python programmer.
+- Currently learning C#, web-based development and further improving my knowledge in previous skills.
+- Also looking to learn 3D modeling, Java and CS fundamentals.
+
+- Certificates
+Artificial Inteligence Fundamentals (IBM SkillsBuild)
+Agile Explorer (IBM SkillsBuild)
+
+- Hobbies:
+Videogames
+Drawing and Art
 
 <!--
-**TulDul11/TulDul11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Notes for later:
+[title](https://www.example.com) --- Link
+> blockquote
 -->
