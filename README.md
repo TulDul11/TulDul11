@@ -5,11 +5,15 @@
 - Also looking to learn 3D modeling, Java and CS fundamentals.
 
 - Certificates
+
 Artificial Inteligence Fundamentals (IBM SkillsBuild)
+
 Agile Explorer (IBM SkillsBuild)
 
 - Hobbies:
+
 Videogames
+
 Drawing and Art
 
 <!--
