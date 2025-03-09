@@ -2,7 +2,7 @@
 - 2nd year Software Engineering student at Tecnológico de Monterrey Campus Monterrey.
 - Intermediate C++ and Python programmer.
 - Currently learning C#, web-based development and further improving my knowledge in previous skills.
-- Also looking to learn 3D modeling, Java and CS fundamentals.
+- Also looking to learn 3D modeling, Java and other CS fundamentals.
 
 
 ## Certificates
