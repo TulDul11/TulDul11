@@ -12,6 +12,15 @@ Artificial Inteligence Fundamentals (IBM SkillsBuild)
 Agile Explorer (IBM SkillsBuild)
 
 
+## Interests
+
+Software Development (Full-Stack Web and Mobile)
+
+Videogame Development and Design
+
+Data Analysis
+
+
 ## Hobbies:
 
 Videogames 🎮
